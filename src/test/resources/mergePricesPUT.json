@@ -1,0 +1,27 @@
+[{
+  "id": 0,
+  "productCode": "6654",
+  "number": 1,
+  "depart": 2,
+  "beginDate": "12.01.2013 00:00:00.000Z",
+  "endDate": "13.01.2013 00:00:00.000Z",
+  "value": 4000
+},
+  {
+    "id": 0,
+    "productCode": "122856",
+    "number": 1,
+    "depart": 1,
+    "beginDate": "20.01.2013 00:00:00.000Z",
+    "endDate": "20.02.2013 23:59:59.000Z",
+    "value": 11000
+  },
+  {
+    "id": 0,
+    "productCode": "122856",
+    "number": 2,
+    "depart": 1,
+    "beginDate": "15.01.2013 00:00:00.000Z",
+    "endDate": "25.01.2013 23:59:59.000Z",
+    "value": 92000
+  }]
